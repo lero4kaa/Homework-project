@@ -1,4 +1,6 @@
 """"
+monies.csv and ratings.csv can be downloaded from ml-25m.zip
+by this link https://grouplens.org/datasets/movielens/25m/
 This module was made to show that movies.csv and ratings.csv files
 have the information I need for the project. The result of the
 execution is file with first 100 000 rows of the data frame,
